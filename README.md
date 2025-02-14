@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jordyn-hammel-179639243)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordyn-hammel-179639243/)
 
 ## Hello, Welcome to my GitHub Profile!
 
